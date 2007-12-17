@@ -6,7 +6,7 @@
 Plugin Name: 1 Blog Cacher
 Plugin URI: http://1blogcacher.com/
 Description: 1 Blog Cacher is a WordPress plugin that caches your pages in order to increase the response speed and minimize the server load.
-Version: 2.1
+Version: 2.0.2
 Author: Javier Garc&iacute;a
 Date: 2007-09-18
 Author URI: http://1blogr.com/

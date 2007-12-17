@@ -6,7 +6,7 @@
 Plugin Name: 1 Blog Cacher
 Plugin URI: http://1blogcacher.com/
 Description: <strong>This file (advanced-cache.php) shouldn't be here</strong>. Move it to the <em>/wp-content/</em> directory so 1 Blog Cacher can work properly.
-Version: 2.1
+Version: 2.0.2
 Author: Javier Garc&iacute;a
 Date: 2007-09-18
 Author URI: http://1blogr.com/
